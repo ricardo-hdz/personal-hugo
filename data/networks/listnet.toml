@@ -1,0 +1,78 @@
+# Twitter
+[[network]]
+icon = "fa-twitter"
+name = "Twitter"
+link = "https=//twitter.com/ricardohdz"
+
+# Instagram
+[[network]]
+icon = "fa-instagram"
+name = "Instagram"
+link = "https=//www.instagram.com/ricardohdz/"
+
+# Blog
+[[network]]
+icon = "fa-wordpress"
+name = "Blog"
+link = "https=//lyingonsofa.wordpress.com/"
+
+#LinkedIn
+[[network]]
+icon = "fa-linkedin"
+name = "LinkedIn"
+link = "https=//www.linkedin.com/in/ricardohdz"
+
+#Soundcloud
+[[network]]
+icon = "fa-soundcloud"
+name = "Soundcloud"
+link = "https=//soundcloud.com/ricardo-hdz"
+
+#Flickr
+[[network]]
+icon = "fa-flickr"
+name = "Github"
+link = "https://www.flickr.com/people/ricardohdz/"
+
+#Flipboard
+#[[network]]
+#icon = "fa-fa-stack-overflow"
+#name = "Flipboard"
+#link = "https=//flipboard.com/@ricardohdz"
+
+#Goodreads
+[[network]]
+icon = "fa-book"
+name = "Goodreads"
+link = "https=//www.goodreads.com/ricardohdz"
+
+#Google+
+[[network]]
+icon = "fa-google-plus"
+name = "Google+"
+link = "https=//plus.google.com/u/0/107300249230532224670/posts"
+
+#Foursquare
+[[network]]
+icon = "fa-foursquare"
+name = "Foursquare"
+link = "https=//foursquare.com/ricardohdz"
+
+#Spotify
+[[network]]
+icon = "fa-spotify"
+name = "Spotify"
+link = "https=//open.spotify.com/user/ricardohdz"
+
+#StackOverflow
+[[network]]
+icon = "fa-stack-overflow"
+name = "Spotify"
+link = "http://stackoverflow.com/users/2227851/ricardohdz"
+
+#Github
+[[network]]
+icon = "fa-github"
+name = "Github"
+link = "https://github.com/ricardo-hdz"
+

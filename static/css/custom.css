@@ -1,0 +1,53 @@
+header {
+    background: #fff;
+    color: #2c3e50;
+}
+
+header .intro-text .name {
+    font-size: 3em;
+}
+
+header img {
+    width: 12%;
+}
+
+section h2 {
+    margin: 0 0 1em;
+    color: #18bc9c;
+}
+
+.btn-success {
+    color: #ffffff;
+    background-color: #233140;
+    border-color: #233140;
+}
+
+.btn-success:hover {
+    color: #ffffff;
+    background-color: #18bc9c;
+    border-color: #18bc9c;
+}
+
+section.success {
+    color: #2c3e50;
+    background: #ccc;
+}
+
+section#contact {
+    background: #ccc;
+}
+
+.btn-network {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    color: #ccc;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 50px;
+    line-height: 45px;
+}
+
+.btn-network:hover {
+    color: #2c3e50;
+}

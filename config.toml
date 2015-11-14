@@ -1,0 +1,64 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+Title = "Ricardo Hdz"
+
+[params]
+name = "Ricardo Hernandez"
+description="Personal site of Ricardo Hernandez"
+email = "ricardo.hdz@gmail.com"
+
+[params.navigation]
+#brand="Ricardo Hdz Portfolio"
+
+    [params.header]
+    name="ricardo hdz"
+    image="me_preset.png"
+    subtitle="Senior Digital Developer - Marketing Professional - Magician"
+
+
+    [params.portfolio]
+    title="Around the web"
+
+        [params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttontext = "Close"
+
+        [params.about]
+        title="About"
+        left = "I'm a senior digital & marketing developer with +7 years of experience. I've had the fortunate opportunity to deliver value for clients such as Pfizer, Bank of America and Accenture. Currently, I'm leading new projects for Disney Parks & Resorts Digital's (WDPRD) web and mobile platforms."
+        right = "At the moment, I'm interested in mobile platforms, personalization of the web, proximity based experiences and interactive marketing strategies: paid, owned and earned media. Besides my professional life, I dedicate time to the study of human and mind evolution, behavioural economics and nutrition."
+
+            [params.about.button]
+            text = "Resume"
+            link = "https://github.com/ricardo-hdz/rahs-resume/raw/master/rahs_resume.pdf"
+            icon = "file-pdf-o"
+
+    [params.contact]
+    title="Contact"
+
+        # 'error' defines error messages for invalid inputs
+        [params.contact.form.name]
+            text = "Name"
+            error = "Please enter your name."
+
+        [params.contact.form.email]
+            text = "Email Adress"
+            error = "Please enter your email address."
+
+        [params.contact.form.phone]
+            text = "Phone Number"
+            error = "Please enter your phone number."
+
+        [params.contact.form.message]
+            text = "Message"
+            error = "Please enter a message."
+
+        [params.contact.form.button]
+            text = "Send"
+
+
+    [params.footer]
+        owner = "&#xA9; Ricardo Hdz. 2015"
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."

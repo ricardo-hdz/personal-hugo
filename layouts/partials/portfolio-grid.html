@@ -1,0 +1,17 @@
+{{ "<!-- Portfolio Grid Section -->" | safeHTML }}
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>{{ with .Site.Params.portfolio.title }}{{.}}{{end}}</h2>
+            </div>
+        </div>
+        <div class="row custom-center">
+            {{ range $.Site.Data.networks.listnet.network }}
+            <div class="col-sm-4 portfolio-item text-center">
+                <a href="{{ .link }}" class="btn-network"><i class="fa fa-fw {{ .icon }}"></i></a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
