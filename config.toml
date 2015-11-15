@@ -27,8 +27,8 @@ email = "ricardo.hdz@gmail.com"
 
         [params.about]
         title="About"
-        left = "I'm a senior digital & marketing developer with +7 years of experience. I've had the fortunate opportunity to deliver value for clients such as Pfizer, Bank of America and Accenture. Currently, I'm leading new projects for Disney Parks & Resorts Digital's (WDPRD) web and mobile platforms."
-        right = "At the moment, I'm interested in mobile platforms, personalization of the web, proximity based experiences and interactive marketing strategies: paid, owned and earned media. Besides my professional life, I dedicate time to the study of human and mind evolution, behavioural economics and nutrition."
+        left = "I'm a senior digital marketing developer with +7 years of experience in the banking and media & entertainment industry. Currently, I'm located in Seattle, WA, USA leading new projects for Disney Parks & Resorts Digital's (WDPRD) web and mobile platforms."
+        right = "My interests go from omni digital channels and personalization of the web to proximity based experiences and interactive marketing strategies. Besides my professional life, I dedicate time to the study of human and mind evolution, behavioural economics and nutrition."
 
             [params.about.button]
             text = "Resume"
