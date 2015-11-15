@@ -2,31 +2,31 @@
 [[network]]
 icon = "fa-twitter"
 name = "Twitter"
-link = "https=//twitter.com/ricardohdz"
+link = "https://twitter.com/ricardohdz"
 
 # Instagram
 [[network]]
 icon = "fa-instagram"
 name = "Instagram"
-link = "https=//www.instagram.com/ricardohdz/"
+link = "https://www.instagram.com/ricardohdz/"
 
 # Blog
 [[network]]
 icon = "fa-wordpress"
 name = "Blog"
-link = "https=//lyingonsofa.wordpress.com/"
+link = "https://lyingonsofa.wordpress.com/"
 
 #LinkedIn
 [[network]]
 icon = "fa-linkedin"
 name = "LinkedIn"
-link = "https=//www.linkedin.com/in/ricardohdz"
+link = "https://www.linkedin.com/in/ricardohdz"
 
 #Soundcloud
 [[network]]
 icon = "fa-soundcloud"
 name = "Soundcloud"
-link = "https=//soundcloud.com/ricardo-hdz"
+link = "https://soundcloud.com/ricardo-hdz"
 
 #Flickr
 [[network]]
@@ -38,31 +38,31 @@ link = "https://www.flickr.com/people/ricardohdz/"
 #[[network]]
 #icon = "fa-fa-stack-overflow"
 #name = "Flipboard"
-#link = "https=//flipboard.com/@ricardohdz"
+#link = "https://flipboard.com/@ricardohdz"
 
 #Goodreads
 [[network]]
 icon = "fa-book"
 name = "Goodreads"
-link = "https=//www.goodreads.com/ricardohdz"
+link = "https://www.goodreads.com/ricardohdz"
 
 #Google+
 [[network]]
 icon = "fa-google-plus"
 name = "Google+"
-link = "https=//plus.google.com/u/0/107300249230532224670/posts"
+link = "https://plus.google.com/u/0/107300249230532224670/posts"
 
 #Foursquare
 [[network]]
 icon = "fa-foursquare"
 name = "Foursquare"
-link = "https=//foursquare.com/ricardohdz"
+link = "https://foursquare.com/ricardohdz"
 
 #Spotify
 [[network]]
 icon = "fa-spotify"
 name = "Spotify"
-link = "https=//open.spotify.com/user/ricardohdz"
+link = "https://open.spotify.com/user/ricardohdz"
 
 #StackOverflow
 [[network]]
